@@ -1,0 +1,25 @@
+body, p, img {
+    page-break-inside: avoid;
+}
+h1 {
+    font-size: 32px;
+    color: red;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    max-width: 95%;
+    margin: 20px auto;
+    height: auto;
+    border: 0;
+    outline: 0;
+    -webkit-box-shadow: 1px 1px 18px 4px #b4b4b4;
+    -moz-box-shadow: 1px 1px 18px 4px #b4b4b4;
+    box-shadow: 1px 1px 18px 4px #b4b4b4;
+    /*set the images aligned*/
+    display: block;
+}
