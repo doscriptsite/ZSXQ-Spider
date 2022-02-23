@@ -33,7 +33,7 @@
 ZSXQ_ACCESS_TOKEN = '00000000-0000-0000-0000-D09322903A59_6DF24A4ED3558CD4'    # 登录后Cookie中的Token（必须修改）
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0'    # 登录时使用的User-Agent（必须修改）
 GROUP_ID = '123456789123'                         # 知识星球中的小组ID
-PDF_FILE_NAME = '电子书.pdf'                       # 生成的PDF文件名，不带后缀
+PDF_FILE_NAME = 'outfile'                         # 生成的PDF文件名，不带后缀
 PDF_MAX_PAGE_NUM = 500                            # 单个PDF文件最大的页面数。windows下超过一定数量的页面会生成失败，所以需要调整此值
 DOWNLOAD_PICS = True                              # 是否下载图片 True | False 下载会导致程序变慢
 DOWNLOAD_COMMENTS = True                          # 是否下载评论
