@@ -12,8 +12,9 @@
 * 支持下载评论。
 * 可控制只下载精华内容或下载全部内容。
 * 支持按时间区间下载。
-* 使用最新接口。
-* 每次运行结果保存为单独文件夹。
+* ![New](https://via.placeholder.com/10/f03c15/000000?text=+) 使用最新接口(v2)。
+* ![New](https://via.placeholder.com/10/f03c15/000000?text=+) 每次运行结果保存为单独文件夹。
+* ![New](https://via.placeholder.com/10/f03c15/000000?text=+) 支持分片输出PDF。
 
 ## 环境
 
@@ -22,7 +23,7 @@
 * 安装相应依赖：pip install pdfkit
 * 安装 BeautifulSoup：pip install BeautifulSoup4
 * 安装 Requests：pip install requests
-* 或者使用poetry install
+* ![New](https://via.placeholder.com/10/f03c15/000000?text=+) 或者使用poetry install
 
 
 ## 用法
