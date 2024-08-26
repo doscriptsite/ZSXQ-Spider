@@ -5,6 +5,10 @@
 
 爬取知识星球，并制作 PDF 电子书。[https://www.zsxq.com/](https://www.zsxq.com/)
 
+> [!CAUTION]
+> 最新接口已使用Signature验证，暂未适配，暂无适配计划
+
+
 ## 功能
 
 * 支持下载图片并写入 PDF。
